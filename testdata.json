@@ -1,0 +1,10 @@
+{
+    "username":"admin@email.com",
+    "password":"admin@123",
+    "interest":["Cypress","JAVA","Python"],
+    "address":{
+                "area":"BHEL",
+                "city":"Hyderabad",
+                "pincode":500032
+              }
+}
